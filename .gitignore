@@ -1,0 +1,8 @@
+# binaries
+service1
+!_build/dockercompose/service1
+!_build/dockerfile/service1
+
+# other
+.DS_Store
+_build/dockerfile/service1/swagger_spec

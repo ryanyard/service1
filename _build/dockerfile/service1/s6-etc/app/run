@@ -1,0 +1,3 @@
+#!/bin/sh
+
+exec /service1/service1 /service1/config.json /service1
